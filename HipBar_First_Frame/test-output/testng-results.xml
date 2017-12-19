@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25376" started-at="2017-09-30T06:01:56Z" finished-at="2017-09-30T06:02:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25376" started-at="2017-09-30T06:01:56Z" finished-at="2017-09-30T06:02:21Z">
+      <class name="Hipbar_user_app.Hipbar_Updated_Module">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Hipbar_user_app.Hipbar_Updated_Module@1375618]" name="setup" is-config="true" duration-ms="19789" started-at="2017-09-30T11:31:56Z" finished-at="2017-09-30T11:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:Hipbar_user_app.Hipbar_Updated_Module@1375618]" name="demo" duration-ms="5485" started-at="2017-09-30T11:32:16Z" finished-at="2017-09-30T11:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Hipbar_user_app.Hipbar_Updated_Module -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
